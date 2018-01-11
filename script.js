@@ -17,7 +17,8 @@ function factorial(num) {
   }
 }
 
-
+console.log(factorial(4));
+console.log(factorial(3));
 
 //Factorial (!)
 // 4! = 4 * 3 * 2 * 1 = 24
